@@ -2,7 +2,7 @@
 
 This project uses **Multiple Linear Regression (MLR)** to predict **monthly views** for a YouTube channel based on key input features like subscriber count, upload frequency, channel age, and more. Built with Python and deployed on netlify
 
-**Live link **
+Live link 
 https://poetic-vacherin-f85dd4.netlify.app/
 
 ---
